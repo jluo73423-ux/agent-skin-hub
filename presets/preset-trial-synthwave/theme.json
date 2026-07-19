@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-synthwave",
+  "name": "试装 · Synthwave 80s",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "霓虹公路上，把灵感开到下一站。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "RETRO WAVE",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.68,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#190C1E",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#1F0D59",
+    "accentAlt": "#3D2163",
+    "secondary": "#351959",
+    "highlight": "#1F0D59",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(31,13,89,0.28)"
+  }
+}
