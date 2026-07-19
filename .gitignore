@@ -1,0 +1,13 @@
+
+# local gen intermediates (final ads live in docs/ads/*.jpg)
+*.log
+.DS_Store
+/tmp/
+docs/ads/cn-batch/v2/
+docs/ads/cn-batch/v2/*.png
+docs/ads/cn-batch/v2/16x9/
+docs/covers/
+
+# superseded draft mockups
+docs/ads/cn-batch/cn-codex-*.png
+docs/ads/cover/cover-sakura-night.png
