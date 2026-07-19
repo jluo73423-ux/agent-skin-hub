@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-rose-soft",
+  "name": "试装 · 柔光玫瑰",
+  "brandSubtitle": " · SKIN HUB",
+  "tagline": "把柔光与玫瑰，带进今天的工作台。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "SKIN HUB ONLINE",
+  "quote": "MAKE TODAY SPARKLE",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.74,
+    "focusY": 0.42,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#FFF5F7",
+    "panel": "#FFFAFB",
+    "panelAlt": "#FFE8EF",
+    "accent": "#E25563",
+    "accentAlt": "#F07A86",
+    "secondary": "#F3A8AF",
+    "highlight": "#C93D4C",
+    "text": "#2B2224",
+    "muted": "#6B5560",
+    "line": "rgba(196,120,128,.24)"
+  }
+}
