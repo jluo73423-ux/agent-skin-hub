@@ -1,0 +1,11 @@
+LOCK — Codex Desktop home screenshot (Fei-Away style). 16:9 exact, NO stretch/distortion.
+
+MUST have:
+1) macOS title: Codex + File Edit View Help + traffic lights
+2) Left sidebar: Codex logo; nav 新建任务/定时/技能/站点/Pull requests/聊天; 项目 list EXACTLY: ProvDex多智能体中心 / 一键更换皮肤 / 一键切换模型 / 多工具统一入口; 任务 coding todos; avatar bottom
+3) Main: themed banner + character RIGHT; Chinese headline; FOUR equal suggestion cards (探索理解代码/构建新功能/审查代码建议/排查问题失败)
+4) BOTTOM composer full width: + , placeholder, Full access, green send, model chip
+
+Brand shell = Codex (NOT ProvDex website). ProvDex only in 项目 names.
+Original characters only — no real celebrities, no copyrighted anime IP faces.
+Sharp readable Chinese UI text. Photoreal product UI fidelity.
