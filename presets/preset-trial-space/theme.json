@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-space",
+  "name": "试装 · 太空站",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "轨道上的值班员，正在对齐下一趟发射。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "MISSION CONTROL",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.7,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#0A1016",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#1E3659",
+    "accentAlt": "#3C4A63",
+    "secondary": "#1F334E",
+    "highlight": "#1E3659",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(30,54,89,0.28)"
+  }
+}
