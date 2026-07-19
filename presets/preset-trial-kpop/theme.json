@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-kpop",
+  "name": "试装 · 韩偶女",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "聚光灯下也要把灵感写进下一行。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "STAGE READY",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.74,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#F3DEFF",
+    "panel": "#FFFCF8",
+    "panelAlt": "#F3F0EC",
+    "accent": "#9374B3",
+    "accentAlt": "#B188BD",
+    "secondary": "#AF95C9",
+    "highlight": "#9374B3",
+    "text": "#1C1816",
+    "muted": "#5A5048",
+    "line": "rgba(147,116,179,0.28)"
+  }
+}
