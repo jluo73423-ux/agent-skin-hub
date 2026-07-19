@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-coffee",
+  "name": "试装 · 咖啡窝",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/16-coffee-cozy.jpg",
+    "promptPath": "presets/preset-trial-coffee/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-coffee/background.jpg",
+    "promptPath": "presets/preset-trial-coffee/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-coffee/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-coffee",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}

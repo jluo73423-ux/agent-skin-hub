@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-coffee",
+  "name": "试装 · 咖啡窝",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "再续一杯，把难搞的函数写顺。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "BREW & BUILD",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.68,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#806656",
+    "panel": "#FFFCF8",
+    "panelAlt": "#F3F0EC",
+    "accent": "#664E3A",
+    "accentAlt": "#846244",
+    "secondary": "#5F4634",
+    "highlight": "#664E3A",
+    "text": "#1C1816",
+    "muted": "#5A5048",
+    "line": "rgba(102,78,58,0.28)"
+  }
+}
