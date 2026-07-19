@@ -1,0 +1,4 @@
+interface:
+  display_name: "agent-skin-hub"
+  short_description: "Browse and apply open Codex Desktop skins without ProvDex"
+  default_prompt: "Use $agent-skin-hub (https://github.com/Chiody/agent-skin-hub) to list skins from catalog.json and apply one on this Mac with scripts/apply-hub-skin.sh. Appearance only — do not modify the official Codex app or API settings. Prefer preset-trial-yuexin-miao if I did not specify an id."
