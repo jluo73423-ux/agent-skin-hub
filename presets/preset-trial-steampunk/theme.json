@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-steampunk",
+  "name": "试装 · 蒸汽朋克",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "齿轮咬合的节奏里，精密地交付。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "ENGINEER LEGACY",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.7,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#12120E",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#594424",
+    "accentAlt": "#77582E",
+    "secondary": "#473D27",
+    "highlight": "#594424",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(89,68,36,0.28)"
+  }
+}

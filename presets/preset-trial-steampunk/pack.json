@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-steampunk",
+  "name": "试装 · 蒸汽朋克",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/19-steampunk.jpg",
+    "promptPath": "presets/preset-trial-steampunk/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-steampunk/background.jpg",
+    "promptPath": "presets/preset-trial-steampunk/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-steampunk/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-steampunk",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}
