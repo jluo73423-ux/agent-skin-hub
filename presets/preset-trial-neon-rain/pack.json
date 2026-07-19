@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-neon-rain",
+  "name": "试装 · 霓虹雨夜",
+  "shell": "codex-glass-v2",
+  "galleryReady": true,
+  "concept": {
+    "path": "docs/ads/03-guochao-glass.jpg",
+    "promptPath": "presets/preset-trial-neon-rain/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-neon-rain/background.jpg",
+    "promptPath": "presets/preset-trial-neon-rain/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-neon-rain/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-neon-rain",
+  "note": "Public gallery OK (Codex glass v2 preview)."
+}
