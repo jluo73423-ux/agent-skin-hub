@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-nordic",
+  "name": "试装 · 北欧极简",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/13-nordic-minimal.jpg",
+    "promptPath": "presets/preset-trial-nordic/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-nordic/background.jpg",
+    "promptPath": "presets/preset-trial-nordic/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-nordic/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-nordic",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}
