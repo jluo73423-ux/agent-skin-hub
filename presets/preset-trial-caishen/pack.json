@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-caishen",
+  "name": "试装 · 财神打工",
+  "shell": "codex-glass-v2",
+  "galleryReady": true,
+  "concept": {
+    "path": "docs/ads/02-caishen-glass.jpg",
+    "promptPath": "presets/preset-trial-caishen/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-caishen/background.jpg",
+    "promptPath": "presets/preset-trial-caishen/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-caishen/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-caishen",
+  "note": "Public gallery OK (Codex glass v2 preview)."
+}

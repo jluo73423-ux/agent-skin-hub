@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-caishen",
+  "name": "试装 · 财神打工",
+  "brandSubtitle": " · SKIN HUB",
+  "tagline": "今天先把项目搞赚钱。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "SKIN HUB ONLINE",
+  "quote": "MAKE IT PAY",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.72,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#FFF8F0",
+    "panel": "#FFFCF7",
+    "panelAlt": "#F5E6D6",
+    "accent": "#B91C1C",
+    "accentAlt": "#D97706",
+    "secondary": "#166534",
+    "highlight": "#9A3412",
+    "text": "#1C1210",
+    "muted": "#5B463A",
+    "line": "rgba(185,28,28,.28)"
+  }
+}
