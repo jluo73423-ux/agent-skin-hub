@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-vtuber",
+  "name": "试装 · 虚拟偶像",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "开播前先把今天的任务列表清空。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "GO LIVE",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.76,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#1E233A",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#5B70C8",
+    "accentAlt": "#7984D2",
+    "secondary": "#5B6DBB",
+    "highlight": "#5B70C8",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(91,112,200,0.28)"
+  }
+}
