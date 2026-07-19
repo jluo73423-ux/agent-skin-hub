@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-kpop-boy",
+  "name": "试装 · 韩偶男",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "镜头外的安静里，继续打磨作品。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "CENTER STAGE",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.74,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#323C49",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#85A0CD",
+    "accentAlt": "#A3B4D7",
+    "secondary": "#8EABD4",
+    "highlight": "#85A0CD",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(133,160,205,0.28)"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-kpop-boy",
+  "name": "试装 · 韩偶男",
+  "shell": "codex-glass-v2",
+  "galleryReady": true,
+  "concept": {
+    "path": "docs/ads/07-kpop-boy-glass.jpg",
+    "promptPath": "presets/preset-trial-kpop-boy/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-kpop-boy/background.jpg",
+    "promptPath": "presets/preset-trial-kpop-boy/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-kpop-boy/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-kpop-boy",
+  "note": "Public gallery OK (Codex glass v2 preview)."
+}
