@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-desert",
+  "name": "试装 · 沙漠落日",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/20-desert-sunset.jpg",
+    "promptPath": "presets/preset-trial-desert/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-desert/background.jpg",
+    "promptPath": "presets/preset-trial-desert/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-desert/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-desert",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}

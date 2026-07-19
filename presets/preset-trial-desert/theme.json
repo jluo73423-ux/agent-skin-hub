@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-desert",
+  "name": "试装 · 沙漠落日",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "沙海尽头的光，照亮今晚的进度条。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "DUNE LIGHT",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.68,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#1E0E0B",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#8B3414",
+    "accentAlt": "#A9481E",
+    "secondary": "#722F1A",
+    "highlight": "#8B3414",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(139,52,20,0.28)"
+  }
+}
