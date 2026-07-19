@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-ocean",
+  "name": "试装 · 海边编程",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/15-ocean-coast.jpg",
+    "promptPath": "presets/preset-trial-ocean/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-ocean/background.jpg",
+    "promptPath": "presets/preset-trial-ocean/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-ocean/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-ocean",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}

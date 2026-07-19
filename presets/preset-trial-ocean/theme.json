@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-ocean",
+  "name": "试装 · 海边编程",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "潮声里写完这一段，再去散步。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "SEA BREEZE",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.7,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#FAFFFF",
+    "panel": "#FFFCF8",
+    "panelAlt": "#F3F0EC",
+    "accent": "#92C6E1",
+    "accentAlt": "#B0DAEB",
+    "secondary": "#B2D3E7",
+    "highlight": "#92C6E1",
+    "text": "#1C1816",
+    "muted": "#5A5048",
+    "line": "rgba(146,198,225,0.28)"
+  }
+}
