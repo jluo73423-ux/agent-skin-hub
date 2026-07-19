@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-saas-teal",
+  "name": "试装 · Teal SaaS",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/23-saas-teal.jpg",
+    "promptPath": "presets/preset-trial-saas-teal/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-saas-teal/background.jpg",
+    "promptPath": "presets/preset-trial-saas-teal/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-saas-teal/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-saas-teal",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}

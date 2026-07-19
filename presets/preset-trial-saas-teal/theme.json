@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-saas-teal",
+  "name": "试装 · Teal SaaS",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "干净的青绿界面，让复杂产品也好读。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  Select project",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "CLEAN SHIP",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.66,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#829094",
+    "panel": "#FFFCF8",
+    "panelAlt": "#F3F0EC",
+    "accent": "#386971",
+    "accentAlt": "#567D7B",
+    "secondary": "#49686E",
+    "highlight": "#386971",
+    "text": "#1C1816",
+    "muted": "#5A5048",
+    "line": "rgba(56,105,113,0.28)"
+  }
+}
