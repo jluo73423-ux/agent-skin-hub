@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-ember-bloom",
+  "name": "Ember Bloom",
+  "brandSubtitle": " · SKIN HUB",
+  "tagline": "让暖光与花瓣，陪你把想法慢慢盛开。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "❀  选择项目",
+  "statusText": "SKIN HUB ONLINE",
+  "quote": "LET IDEAS BLOOM",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.74,
+    "focusY": 0.4,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#FFF4EA",
+    "panel": "rgba(255,248,240,0.42)",
+    "panelAlt": "rgba(255,230,210,0.35)",
+    "accent": "#FF8A4A",
+    "accentAlt": "#FFB07A",
+    "secondary": "#E07A4A",
+    "highlight": "#FFFFFF",
+    "text": "#4A2A18",
+    "muted": "#A07A60",
+    "line": "rgba(255,138,74,0.28)"
+  }
+}
