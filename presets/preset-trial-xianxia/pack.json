@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-xianxia",
+  "name": "试装 · 修仙国漫",
+  "shell": "codex-glass-v2",
+  "galleryReady": true,
+  "concept": {
+    "path": "docs/ads/05-xianxia-glass.jpg",
+    "promptPath": "presets/preset-trial-xianxia/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-xianxia/background.jpg",
+    "promptPath": "presets/preset-trial-xianxia/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-xianxia/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-xianxia",
+  "note": "Public gallery OK (Codex glass v2 preview)."
+}

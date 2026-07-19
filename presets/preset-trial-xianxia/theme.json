@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-xianxia",
+  "name": "试装 · 修仙国漫",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "渡劫之前，先把这一关 debug 过。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "CULTIVATE & SHIP",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.76,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#3D4240",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#659C80",
+    "accentAlt": "#83B08A",
+    "secondary": "#8EB1A1",
+    "highlight": "#659C80",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(101,156,128,0.28)"
+  }
+}
