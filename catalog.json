@@ -1,0 +1,557 @@
+{
+  "schemaVersion": 1,
+  "name": "agent-skin-hub",
+  "description": "Codex 桌面端开源皮肤合集。ProvDex / 官网按需下载，不塞进安装包。",
+  "updatedAt": "2026-07-18T02:02:01.686Z",
+  "homepage": "https://github.com/Chiody/agent-skin-hub",
+  "compatibleWith": [
+    "provdex-codex-appearance",
+    "codex-desktop"
+  ],
+  "presets": [
+    {
+      "id": "preset-amber-dusk",
+      "name": "琥珀黄昏",
+      "tagline": "把黄昏的暖意，留在这一行代码里。",
+      "image": "background.jpg",
+      "bytes": 599502,
+      "path": "presets/preset-amber-dusk",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-amber-dusk",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-amber-dusk/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-aurora-veil",
+      "name": "Aurora Veil",
+      "tagline": "极光落下时，把灵感轻轻接住。",
+      "image": "background.jpg",
+      "bytes": 687497,
+      "path": "presets/preset-aurora-veil",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-aurora-veil",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-aurora-veil/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-aurora-veil.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-azure-matrix",
+      "name": "苍蓝矩阵",
+      "tagline": "面向星门，把灵感写进深空。",
+      "image": "background.jpg",
+      "bytes": 756777,
+      "path": "presets/preset-azure-matrix",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-azure-matrix",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-azure-matrix/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-azure-matrix.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-classic-blue-2007",
+      "name": "经典蓝 2007",
+      "tagline": "那年在线的浅蓝，今天继续写代码。",
+      "image": "background.jpg",
+      "bytes": 293167,
+      "path": "presets/preset-classic-blue-2007",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "https://github.com/angziii/codex-qq-skin",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-cyber-neon",
+      "name": "赛博霓虹",
+      "tagline": "雨夜霓虹里，灵感刚刚上线。",
+      "image": "background.jpg",
+      "bytes": 764387,
+      "path": "presets/preset-cyber-neon",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-cyber-neon",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-cyber-neon/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-cyber-neon.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-deep-space-mission-control",
+      "name": "Deep Space Mission Control",
+      "tagline": "Observe the signal, plan the orbit, ship the mission.",
+      "image": "background.jpg",
+      "bytes": 443750,
+      "path": "presets/preset-deep-space-mission-control",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-deep-space-mission-control",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-deep-space-mission-control/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "https://github.com/ismoshushi/codex-skinkit",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-ember-bloom",
+      "name": "Ember Bloom",
+      "tagline": "让暖光与花瓣，陪你把想法慢慢盛开。",
+      "image": "background.jpg",
+      "bytes": 884136,
+      "path": "presets/preset-ember-bloom",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-ember-bloom",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-ember-bloom/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-ember-bloom.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-forest-mist",
+      "name": "森野薄雾",
+      "tagline": "在雾气森林里，安静地推进。",
+      "image": "background.jpg",
+      "bytes": 814841,
+      "path": "presets/preset-forest-mist",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-forest-mist",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-forest-mist/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-forest-mist.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-midnight-aurora",
+      "name": "午夜极光",
+      "tagline": "在极光底下，把今晚写成温柔的一行。",
+      "image": "background.jpg",
+      "bytes": 679127,
+      "path": "presets/preset-midnight-aurora",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-midnight-aurora",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-midnight-aurora/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-midnight-aurora.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-open-portal",
+      "name": "开光之门",
+      "tagline": "门开了，灵感就进来了。",
+      "image": "background.jpg",
+      "bytes": 978480,
+      "path": "presets/preset-open-portal",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-open-portal",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-open-portal/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-open-portal.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-sakura-dawn",
+      "name": "樱粉晨曦",
+      "tagline": "晨光里的樱花，把今天轻轻打开。",
+      "image": "background.jpg",
+      "bytes": 504541,
+      "path": "presets/preset-sakura-dawn",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-sakura-dawn",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-sakura-dawn/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-sakura-dawn.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-snow-scape",
+      "name": "雪景",
+      "tagline": "在安静的雪色里，慢慢写完今天。",
+      "image": "background.jpg",
+      "bytes": 657849,
+      "path": "presets/preset-snow-scape",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-snow-scape",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-snow-scape/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-snow-scape.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-strawberry-starlight",
+      "name": "星莓绮梦",
+      "tagline": "把柔光与玫瑰，带进今天的工作台。",
+      "image": "background.jpg",
+      "bytes": 754987,
+      "path": "presets/preset-strawberry-starlight",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-strawberry-starlight",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-strawberry-starlight/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-strawberry-starlight.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-caishen",
+      "name": "试装 · 财神打工",
+      "tagline": "今天先把项目搞赚钱。",
+      "image": "background.jpg",
+      "bytes": 1015810,
+      "path": "presets/preset-trial-caishen",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-caishen.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-coffee",
+      "name": "试装 · 咖啡窝",
+      "tagline": "再续一杯，把难搞的函数写顺。",
+      "image": "background.jpg",
+      "bytes": 385504,
+      "path": "presets/preset-trial-coffee",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-coffee",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-coffee/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-desert",
+      "name": "试装 · 沙漠落日",
+      "tagline": "沙海尽头的光，照亮今晚的进度条。",
+      "image": "background.jpg",
+      "bytes": 484225,
+      "path": "presets/preset-trial-desert",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-desert",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-desert/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-hanfu",
+      "name": "试装 · 汉服园林",
+      "tagline": "亭台水榭之间，把思路慢慢铺开。",
+      "image": "background.jpg",
+      "bytes": 403190,
+      "path": "presets/preset-trial-hanfu",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-koi",
+      "name": "试装 · 锦鲤好运",
+      "tagline": "今天也要顺顺利利合上最后一个 PR。",
+      "image": "background.jpg",
+      "bytes": 664684,
+      "path": "presets/preset-trial-koi",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-kpop",
+      "name": "试装 · 韩偶女",
+      "tagline": "聚光灯下也要把灵感写进下一行。",
+      "image": "background.jpg",
+      "bytes": 518520,
+      "path": "presets/preset-trial-kpop",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-kpop-boy",
+      "name": "试装 · 韩偶男",
+      "tagline": "镜头外的安静里，继续打磨作品。",
+      "image": "background.jpg",
+      "bytes": 428031,
+      "path": "presets/preset-trial-kpop-boy",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-matrix",
+      "name": "试装 · 黑客终端",
+      "tagline": "绿字滚动时，专注比炫技更重要。",
+      "image": "background.jpg",
+      "bytes": 372156,
+      "path": "presets/preset-trial-matrix",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-matrix",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-matrix/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-neon-rain",
+      "name": "试装 · 霓虹雨夜",
+      "tagline": "雨夜霓虹里，灵感刚刚上线。",
+      "image": "background.jpg",
+      "bytes": 1189571,
+      "path": "presets/preset-trial-neon-rain",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-neon-rain.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-nordic",
+      "name": "试装 · 北欧极简",
+      "tagline": "留白够了，代码就更清楚。",
+      "image": "background.jpg",
+      "bytes": 301535,
+      "path": "presets/preset-trial-nordic",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-nordic",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-nordic/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-ocean",
+      "name": "试装 · 海边编程",
+      "tagline": "潮声里写完这一段，再去散步。",
+      "image": "background.jpg",
+      "bytes": 338203,
+      "path": "presets/preset-trial-ocean",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-ocean",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-ocean/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-overtime",
+      "name": "试装 · 加班梗图",
+      "tagline": "又是肝到凌晨的一晚，提交前先喝口水。",
+      "image": "background.jpg",
+      "bytes": 509372,
+      "path": "presets/preset-trial-overtime",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-rooftop",
+      "name": "试装 · 放学屋顶",
+      "tagline": "放学后的晚风，先把今天的代码收好。",
+      "image": "background.jpg",
+      "bytes": 513921,
+      "path": "presets/preset-trial-rooftop",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-rose-soft",
+      "name": "试装 · 柔光玫瑰",
+      "tagline": "把柔光与玫瑰，带进今天的工作台。",
+      "image": "background.jpg",
+      "bytes": 640395,
+      "path": "presets/preset-trial-rose-soft",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-rose-soft.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-saas-teal",
+      "name": "试装 · Teal SaaS",
+      "tagline": "干净的青绿界面，让复杂产品也好读。",
+      "image": "background.jpg",
+      "bytes": 364691,
+      "path": "presets/preset-trial-saas-teal",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-saas-teal",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-saas-teal/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-space",
+      "name": "试装 · 太空站",
+      "tagline": "轨道上的值班员，正在对齐下一趟发射。",
+      "image": "background.jpg",
+      "bytes": 499043,
+      "path": "presets/preset-trial-space",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-space",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-space/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-steampunk",
+      "name": "试装 · 蒸汽朋克",
+      "tagline": "齿轮咬合的节奏里，精密地交付。",
+      "image": "background.jpg",
+      "bytes": 895648,
+      "path": "presets/preset-trial-steampunk",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-steampunk",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-steampunk/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-synthwave",
+      "name": "试装 · Synthwave 80s",
+      "tagline": "霓虹公路上，把灵感开到下一站。",
+      "image": "background.jpg",
+      "bytes": 595536,
+      "path": "presets/preset-trial-synthwave",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-synthwave",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-synthwave/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-vtuber",
+      "name": "试装 · 虚拟偶像",
+      "tagline": "开播前先把今天的任务列表清空。",
+      "image": "background.jpg",
+      "bytes": 655712,
+      "path": "presets/preset-trial-vtuber",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-xianxia",
+      "name": "试装 · 修仙国漫",
+      "tagline": "渡劫之前，先把这一关 debug 过。",
+      "image": "background.jpg",
+      "bytes": 538419,
+      "path": "presets/preset-trial-xianxia",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia/background.jpg",
+      "previewUrl": "",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    },
+    {
+      "id": "preset-trial-yuexin-miao",
+      "name": "试装 · 月薪喵",
+      "tagline": "捂鼻散味，这个月工资又去哪了。",
+      "image": "background.jpg",
+      "bytes": 436688,
+      "path": "presets/preset-trial-yuexin-miao",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao",
+      "wallpaperUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao/background.jpg",
+      "previewUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-yuexin-miao.jpg",
+      "sourceUrl": "",
+      "risk": "low",
+      "tags": [
+        "abstract"
+      ]
+    }
+  ]
+}

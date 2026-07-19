@@ -1,0 +1,941 @@
+{
+  "schemaVersion": 3,
+  "name": "agent-skin-hub-gallery",
+  "updatedAt": "2026-07-18T02:02:01.741Z",
+  "homepage": "https://github.com/Chiody/agent-skin-hub",
+  "rawBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main",
+  "catalogUrl": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/catalog.json",
+  "themePackDoc": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/THEME-PACK.md",
+  "usage": {
+    "concept": "公开画廊：仅 Codex 玻璃态整窗预览（galleryReady）",
+    "wallpaper": "安装用纯背景底图（不进画廊缩略图）",
+    "livePreview": "真机 Codex 实拍（可选）"
+  },
+  "concepts": [
+    {
+      "id": "01-sakura-glass",
+      "name": "夜樱玻璃",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/01-sakura-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/01-sakura-glass.jpg",
+        "bytes": 905208
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-rose-soft/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft/background.jpg",
+        "bytes": 640395
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-rose-soft.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-rose-soft.jpg",
+        "bytes": 186564
+      },
+      "conceptPrompt": {
+        "path": "presets/preset-trial-rose-soft/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft/concept-prompt.md",
+        "bytes": 1120
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-rose-soft/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft/wallpaper-prompt.md",
+        "bytes": 498
+      },
+      "presetId": "preset-trial-rose-soft",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-rose-soft"
+    },
+    {
+      "id": "02-caishen-glass",
+      "name": "财神打工",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/02-caishen-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/02-caishen-glass.jpg",
+        "bytes": 1263150
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-caishen/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen/background.jpg",
+        "bytes": 1015810
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-caishen.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-caishen.jpg",
+        "bytes": 238077
+      },
+      "conceptPrompt": {
+        "path": "presets/preset-trial-caishen/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen/concept-prompt.md",
+        "bytes": 1112
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-caishen/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen/wallpaper-prompt.md",
+        "bytes": 492
+      },
+      "presetId": "preset-trial-caishen",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-caishen"
+    },
+    {
+      "id": "03-guochao-glass",
+      "name": "国潮赛博",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/03-guochao-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/03-guochao-glass.jpg",
+        "bytes": 1371769
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-neon-rain/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain/background.jpg",
+        "bytes": 1189571
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-neon-rain.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-neon-rain.jpg",
+        "bytes": 192500
+      },
+      "conceptPrompt": {
+        "path": "presets/preset-trial-neon-rain/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain/concept-prompt.md",
+        "bytes": 1110
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-neon-rain/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain/wallpaper-prompt.md",
+        "bytes": 488
+      },
+      "presetId": "preset-trial-neon-rain",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-neon-rain"
+    },
+    {
+      "id": "04-rooftop-glass",
+      "name": "放学屋顶",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/04-rooftop-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/04-rooftop-glass.jpg",
+        "bytes": 1047329
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-rooftop/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop/background.jpg",
+        "bytes": 513921
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-rooftop/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop/concept-prompt.md",
+        "bytes": 1117
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-rooftop/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop/wallpaper-prompt.md",
+        "bytes": 497
+      },
+      "presetId": "preset-trial-rooftop",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-rooftop"
+    },
+    {
+      "id": "05-xianxia-glass",
+      "name": "修仙国漫",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/05-xianxia-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/05-xianxia-glass.jpg",
+        "bytes": 1084763
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-xianxia/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia/background.jpg",
+        "bytes": 538419
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-xianxia/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia/concept-prompt.md",
+        "bytes": 1105
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-xianxia/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia/wallpaper-prompt.md",
+        "bytes": 485
+      },
+      "presetId": "preset-trial-xianxia",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-xianxia"
+    },
+    {
+      "id": "06-kpop-glass",
+      "name": "韩偶女",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/06-kpop-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/06-kpop-glass.jpg",
+        "bytes": 942263
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-kpop/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop/background.jpg",
+        "bytes": 518520
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-kpop/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop/concept-prompt.md",
+        "bytes": 1109
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-kpop/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop/wallpaper-prompt.md",
+        "bytes": 492
+      },
+      "presetId": "preset-trial-kpop",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-kpop"
+    },
+    {
+      "id": "07-kpop-boy-glass",
+      "name": "韩偶男",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/07-kpop-boy-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/07-kpop-boy-glass.jpg",
+        "bytes": 915218
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-kpop-boy/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy/background.jpg",
+        "bytes": 428031
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-kpop-boy/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy/concept-prompt.md",
+        "bytes": 1112
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-kpop-boy/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy/wallpaper-prompt.md",
+        "bytes": 491
+      },
+      "presetId": "preset-trial-kpop-boy",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-kpop-boy"
+    },
+    {
+      "id": "08-overtime-meme",
+      "name": "加班梗图",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/08-overtime-meme.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/08-overtime-meme.jpg",
+        "bytes": 1101597
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-overtime/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime/background.jpg",
+        "bytes": 509372
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-overtime/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime/concept-prompt.md",
+        "bytes": 1124
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-overtime/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime/wallpaper-prompt.md",
+        "bytes": 503
+      },
+      "presetId": "preset-trial-overtime",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-overtime"
+    },
+    {
+      "id": "09-hanfu-glass",
+      "name": "汉服园林",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/09-hanfu-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/09-hanfu-glass.jpg",
+        "bytes": 856919
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-hanfu/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu/background.jpg",
+        "bytes": 403190
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-hanfu/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu/concept-prompt.md",
+        "bytes": 1104
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-hanfu/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu/wallpaper-prompt.md",
+        "bytes": 486
+      },
+      "presetId": "preset-trial-hanfu",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-hanfu"
+    },
+    {
+      "id": "10-vtuber-glass",
+      "name": "虚拟偶像",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/10-vtuber-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/10-vtuber-glass.jpg",
+        "bytes": 1321699
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-vtuber/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber/background.jpg",
+        "bytes": 655712
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-vtuber/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber/concept-prompt.md",
+        "bytes": 1110
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-vtuber/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber/wallpaper-prompt.md",
+        "bytes": 491
+      },
+      "presetId": "preset-trial-vtuber",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-vtuber"
+    },
+    {
+      "id": "11-koi-glass",
+      "name": "锦鲤好运",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/11-koi-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/11-koi-glass.jpg",
+        "bytes": 1282337
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-koi/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi/background.jpg",
+        "bytes": 664684
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-trial-koi/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi/concept-prompt.md",
+        "bytes": 1102
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-koi/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi/wallpaper-prompt.md",
+        "bytes": 486
+      },
+      "presetId": "preset-trial-koi",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-koi"
+    },
+    {
+      "id": "24-yuexin-miao-glass",
+      "name": "月薪喵",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/24-yuexin-miao-glass.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/24-yuexin-miao-glass.jpg",
+        "bytes": 242743
+      },
+      "wallpaper": {
+        "path": "presets/preset-trial-yuexin-miao/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao/background.jpg",
+        "bytes": 436688
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-yuexin-miao.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-yuexin-miao.jpg",
+        "bytes": 38522
+      },
+      "conceptPrompt": {
+        "path": "presets/preset-trial-yuexin-miao/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao/concept-prompt.md",
+        "bytes": 1134
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-trial-yuexin-miao/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao/wallpaper-prompt.md",
+        "bytes": 510
+      },
+      "presetId": "preset-trial-yuexin-miao",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-yuexin-miao"
+    },
+    {
+      "id": "25-classic-blue-2007",
+      "name": "经典蓝 2007",
+      "group": "cn-v2",
+      "kind": "concept-ad",
+      "shell": "codex-glass-v2",
+      "galleryReady": true,
+      "note": "整窗 Codex 玻璃态预览；勿当作换肤 background 导入",
+      "concept": {
+        "path": "docs/ads/25-classic-blue-2007.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/ads/25-classic-blue-2007.jpg",
+        "bytes": 409580
+      },
+      "wallpaper": {
+        "path": "presets/preset-classic-blue-2007/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007/background.jpg",
+        "bytes": 293167
+      },
+      "livePreview": null,
+      "conceptPrompt": {
+        "path": "presets/preset-classic-blue-2007/concept-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007/concept-prompt.md",
+        "bytes": 1382
+      },
+      "wallpaperPrompt": {
+        "path": "presets/preset-classic-blue-2007/wallpaper-prompt.md",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007/wallpaper-prompt.md",
+        "bytes": 715
+      },
+      "presetId": "preset-classic-blue-2007",
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007",
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-classic-blue-2007"
+    }
+  ],
+  "installables": [
+    {
+      "id": "preset-amber-dusk",
+      "wallpaper": {
+        "path": "presets/preset-amber-dusk/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-amber-dusk/background.jpg",
+        "bytes": 599502
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-amber-dusk",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-amber-dusk"
+    },
+    {
+      "id": "preset-aurora-veil",
+      "wallpaper": {
+        "path": "presets/preset-aurora-veil/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-aurora-veil/background.jpg",
+        "bytes": 687497
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-aurora-veil.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-aurora-veil.jpg",
+        "bytes": 72911
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-aurora-veil",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-aurora-veil"
+    },
+    {
+      "id": "preset-azure-matrix",
+      "wallpaper": {
+        "path": "presets/preset-azure-matrix/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-azure-matrix/background.jpg",
+        "bytes": 756777
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-azure-matrix.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-azure-matrix.jpg",
+        "bytes": 143414
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-azure-matrix",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-azure-matrix"
+    },
+    {
+      "id": "preset-classic-blue-2007",
+      "wallpaper": {
+        "path": "presets/preset-classic-blue-2007/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007/background.jpg",
+        "bytes": 293167
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-classic-blue-2007",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-classic-blue-2007"
+    },
+    {
+      "id": "preset-cyber-neon",
+      "wallpaper": {
+        "path": "presets/preset-cyber-neon/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-cyber-neon/background.jpg",
+        "bytes": 764387
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-cyber-neon.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-cyber-neon.jpg",
+        "bytes": 135755
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-cyber-neon",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-cyber-neon"
+    },
+    {
+      "id": "preset-deep-space-mission-control",
+      "wallpaper": {
+        "path": "presets/preset-deep-space-mission-control/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-deep-space-mission-control/background.jpg",
+        "bytes": 443750
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-deep-space-mission-control",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-deep-space-mission-control"
+    },
+    {
+      "id": "preset-ember-bloom",
+      "wallpaper": {
+        "path": "presets/preset-ember-bloom/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-ember-bloom/background.jpg",
+        "bytes": 884136
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-ember-bloom.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-ember-bloom.jpg",
+        "bytes": 140331
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-ember-bloom",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-ember-bloom"
+    },
+    {
+      "id": "preset-forest-mist",
+      "wallpaper": {
+        "path": "presets/preset-forest-mist/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-forest-mist/background.jpg",
+        "bytes": 814841
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-forest-mist.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-forest-mist.jpg",
+        "bytes": 36264
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-forest-mist",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-forest-mist"
+    },
+    {
+      "id": "preset-midnight-aurora",
+      "wallpaper": {
+        "path": "presets/preset-midnight-aurora/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-midnight-aurora/background.jpg",
+        "bytes": 679127
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-midnight-aurora.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-midnight-aurora.jpg",
+        "bytes": 127756
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-midnight-aurora",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-midnight-aurora"
+    },
+    {
+      "id": "preset-open-portal",
+      "wallpaper": {
+        "path": "presets/preset-open-portal/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-open-portal/background.jpg",
+        "bytes": 978480
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-open-portal.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-open-portal.jpg",
+        "bytes": 42560
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-open-portal",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-open-portal"
+    },
+    {
+      "id": "preset-sakura-dawn",
+      "wallpaper": {
+        "path": "presets/preset-sakura-dawn/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-sakura-dawn/background.jpg",
+        "bytes": 504541
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-sakura-dawn.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-sakura-dawn.jpg",
+        "bytes": 59871
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-sakura-dawn",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-sakura-dawn"
+    },
+    {
+      "id": "preset-snow-scape",
+      "wallpaper": {
+        "path": "presets/preset-snow-scape/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-snow-scape/background.jpg",
+        "bytes": 657849
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-snow-scape.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-snow-scape.jpg",
+        "bytes": 114814
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-snow-scape",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-snow-scape"
+    },
+    {
+      "id": "preset-strawberry-starlight",
+      "wallpaper": {
+        "path": "presets/preset-strawberry-starlight/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-strawberry-starlight/background.jpg",
+        "bytes": 754987
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-strawberry-starlight.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-strawberry-starlight.jpg",
+        "bytes": 126256
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-strawberry-starlight",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-strawberry-starlight"
+    },
+    {
+      "id": "preset-trial-caishen",
+      "wallpaper": {
+        "path": "presets/preset-trial-caishen/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen/background.jpg",
+        "bytes": 1015810
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-caishen.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-caishen.jpg",
+        "bytes": 238077
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-caishen",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-caishen"
+    },
+    {
+      "id": "preset-trial-coffee",
+      "wallpaper": {
+        "path": "presets/preset-trial-coffee/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-coffee/background.jpg",
+        "bytes": 385504
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-coffee",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-coffee"
+    },
+    {
+      "id": "preset-trial-desert",
+      "wallpaper": {
+        "path": "presets/preset-trial-desert/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-desert/background.jpg",
+        "bytes": 484225
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-desert",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-desert"
+    },
+    {
+      "id": "preset-trial-hanfu",
+      "wallpaper": {
+        "path": "presets/preset-trial-hanfu/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu/background.jpg",
+        "bytes": 403190
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-hanfu",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-hanfu"
+    },
+    {
+      "id": "preset-trial-koi",
+      "wallpaper": {
+        "path": "presets/preset-trial-koi/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi/background.jpg",
+        "bytes": 664684
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-koi",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-koi"
+    },
+    {
+      "id": "preset-trial-kpop",
+      "wallpaper": {
+        "path": "presets/preset-trial-kpop/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop/background.jpg",
+        "bytes": 518520
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-kpop"
+    },
+    {
+      "id": "preset-trial-kpop-boy",
+      "wallpaper": {
+        "path": "presets/preset-trial-kpop-boy/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy/background.jpg",
+        "bytes": 428031
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-kpop-boy",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-kpop-boy"
+    },
+    {
+      "id": "preset-trial-matrix",
+      "wallpaper": {
+        "path": "presets/preset-trial-matrix/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-matrix/background.jpg",
+        "bytes": 372156
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-matrix",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-matrix"
+    },
+    {
+      "id": "preset-trial-neon-rain",
+      "wallpaper": {
+        "path": "presets/preset-trial-neon-rain/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain/background.jpg",
+        "bytes": 1189571
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-neon-rain.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-neon-rain.jpg",
+        "bytes": 192500
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-neon-rain",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-neon-rain"
+    },
+    {
+      "id": "preset-trial-nordic",
+      "wallpaper": {
+        "path": "presets/preset-trial-nordic/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-nordic/background.jpg",
+        "bytes": 301535
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-nordic",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-nordic"
+    },
+    {
+      "id": "preset-trial-ocean",
+      "wallpaper": {
+        "path": "presets/preset-trial-ocean/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-ocean/background.jpg",
+        "bytes": 338203
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-ocean",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-ocean"
+    },
+    {
+      "id": "preset-trial-overtime",
+      "wallpaper": {
+        "path": "presets/preset-trial-overtime/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime/background.jpg",
+        "bytes": 509372
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-overtime",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-overtime"
+    },
+    {
+      "id": "preset-trial-rooftop",
+      "wallpaper": {
+        "path": "presets/preset-trial-rooftop/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop/background.jpg",
+        "bytes": 513921
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rooftop",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-rooftop"
+    },
+    {
+      "id": "preset-trial-rose-soft",
+      "wallpaper": {
+        "path": "presets/preset-trial-rose-soft/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft/background.jpg",
+        "bytes": 640395
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-rose-soft.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-rose-soft.jpg",
+        "bytes": 186564
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-rose-soft",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-rose-soft"
+    },
+    {
+      "id": "preset-trial-saas-teal",
+      "wallpaper": {
+        "path": "presets/preset-trial-saas-teal/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-saas-teal/background.jpg",
+        "bytes": 364691
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-saas-teal",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-saas-teal"
+    },
+    {
+      "id": "preset-trial-space",
+      "wallpaper": {
+        "path": "presets/preset-trial-space/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-space/background.jpg",
+        "bytes": 499043
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-space",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-space"
+    },
+    {
+      "id": "preset-trial-steampunk",
+      "wallpaper": {
+        "path": "presets/preset-trial-steampunk/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-steampunk/background.jpg",
+        "bytes": 895648
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-steampunk",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-steampunk"
+    },
+    {
+      "id": "preset-trial-synthwave",
+      "wallpaper": {
+        "path": "presets/preset-trial-synthwave/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-synthwave/background.jpg",
+        "bytes": 595536
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-synthwave",
+      "galleryReady": false,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-synthwave"
+    },
+    {
+      "id": "preset-trial-vtuber",
+      "wallpaper": {
+        "path": "presets/preset-trial-vtuber/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber/background.jpg",
+        "bytes": 655712
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-vtuber",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-vtuber"
+    },
+    {
+      "id": "preset-trial-xianxia",
+      "wallpaper": {
+        "path": "presets/preset-trial-xianxia/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia/background.jpg",
+        "bytes": 538419
+      },
+      "livePreview": null,
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-xianxia",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-xianxia"
+    },
+    {
+      "id": "preset-trial-yuexin-miao",
+      "wallpaper": {
+        "path": "presets/preset-trial-yuexin-miao/background.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao/background.jpg",
+        "bytes": 436688
+      },
+      "livePreview": {
+        "path": "docs/previews/preset-trial-yuexin-miao.jpg",
+        "url": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/docs/previews/preset-trial-yuexin-miao.jpg",
+        "bytes": 38522
+      },
+      "downloadBase": "https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/presets/preset-trial-yuexin-miao",
+      "galleryReady": true,
+      "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-yuexin-miao"
+    }
+  ],
+  "skippedFromGallery": [
+    "12-synthwave (preset-trial-synthwave)",
+    "13-nordic-minimal (preset-trial-nordic)",
+    "14-cyber-rain (not pack.concept.path)",
+    "15-ocean-coast (preset-trial-ocean)",
+    "16-coffee-cozy (preset-trial-coffee)",
+    "17-matrix-terminal (preset-trial-matrix)",
+    "18-sakura-night (preset-sakura-dawn)",
+    "19-steampunk (preset-trial-steampunk)",
+    "20-desert-sunset (preset-trial-desert)",
+    "21-snow-cabin (preset-snow-scape)",
+    "22-space-nasa (preset-trial-space)",
+    "23-saas-teal (preset-trial-saas-teal)"
+  ]
+}
