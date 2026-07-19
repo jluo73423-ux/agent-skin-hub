@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-midnight-aurora",
+  "name": "午夜极光",
+  "brandSubtitle": " · SKIN HUB",
+  "tagline": "在极光底下，把今晚写成温柔的一行。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "✧  选择项目",
+  "statusText": "SKIN HUB ONLINE",
+  "quote": "CODE BENEATH THE LIGHT",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.74,
+    "focusY": 0.4,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#071018",
+    "panel": "rgba(10,22,30,0.38)",
+    "panelAlt": "rgba(16,40,40,0.30)",
+    "accent": "#5CFFB0",
+    "accentAlt": "#A78BFF",
+    "secondary": "#4CC9C0",
+    "highlight": "#EAFBFF",
+    "text": "#F2FBFF",
+    "muted": "#9BB8B8",
+    "line": "rgba(92,255,176,0.30)"
+  }
+}
