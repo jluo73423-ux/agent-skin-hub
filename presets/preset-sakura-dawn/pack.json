@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-sakura-dawn",
+  "name": "樱粉晨曦",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/18-sakura-night.jpg",
+    "promptPath": "presets/preset-sakura-dawn/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-sakura-dawn/background.jpg",
+    "promptPath": "presets/preset-sakura-dawn/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-sakura-dawn/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-sakura-dawn",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}

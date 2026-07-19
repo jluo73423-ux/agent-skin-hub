@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-sakura-dawn",
+  "name": "樱粉晨曦",
+  "brandSubtitle": " · SKIN HUB",
+  "tagline": "晨光里的樱花，把今天轻轻打开。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "SKIN HUB ONLINE",
+  "quote": "BLOOM WITH THE DAWN",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.72,
+    "focusY": 0.42,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#2A1822",
+    "panel": "rgba(20,16,20,0.52)",
+    "panelAlt": "rgba(40,28,32,0.42)",
+    "accent": "#FF8BB5",
+    "accentAlt": "#FF8BB5",
+    "secondary": "#FF8BB5",
+    "highlight": "#FFF8F2",
+    "text": "#FFF8F2",
+    "muted": "#C9B8B0",
+    "line": "rgba(255,255,255,0.22)"
+  }
+}
