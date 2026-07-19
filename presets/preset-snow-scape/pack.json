@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-snow-scape",
+  "name": "雪景",
+  "shell": "codex-glass-v2",
+  "galleryReady": false,
+  "concept": {
+    "path": "docs/ads/21-snow-cabin.jpg",
+    "promptPath": "presets/preset-snow-scape/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-snow-scape/background.jpg",
+    "promptPath": "presets/preset-snow-scape/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-snow-scape/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-snow-scape",
+  "note": "Installable via command, but preview is legacy marketing art — regenerate with concept-prompt.md before galleryReady=true."
+}
