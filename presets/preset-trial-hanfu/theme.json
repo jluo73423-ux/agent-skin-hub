@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-hanfu",
+  "name": "试装 · 汉服园林",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "亭台水榭之间，把思路慢慢铺开。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "GARDEN FLOW",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.72,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#BED4D0",
+    "panel": "#FFFCF8",
+    "panelAlt": "#F3F0EC",
+    "accent": "#6DA999",
+    "accentAlt": "#8BBDA3",
+    "secondary": "#81AAA0",
+    "highlight": "#6DA999",
+    "text": "#1C1816",
+    "muted": "#5A5048",
+    "line": "rgba(109,169,153,0.28)"
+  }
+}
