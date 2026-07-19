@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-yuexin-miao",
+  "name": "试装 · 月薪喵",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "捂鼻散味，这个月工资又去哪了。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "PAYDAY ENERGY",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.82,
+    "focusY": 0.55,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#FFF8E8",
+    "panel": "#FFFCF4",
+    "panelAlt": "#F3E4C8",
+    "accent": "#3A63AD",
+    "accentAlt": "#C8AD8D",
+    "secondary": "#5B463A",
+    "highlight": "#2F4F8F",
+    "text": "#2A2220",
+    "muted": "#6B5750",
+    "line": "rgba(90,70,50,.22)"
+  }
+}
