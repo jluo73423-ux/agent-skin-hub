@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-koi",
+  "name": "试装 · 锦鲤好运",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "今天也要顺顺利利合上最后一个 PR。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "LUCKY COMMIT",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.7,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#93664A",
+    "panel": "#FFFCF8",
+    "panelAlt": "#F3F0EC",
+    "accent": "#693417",
+    "accentAlt": "#874821",
+    "secondary": "#6A391C",
+    "highlight": "#693417",
+    "text": "#1C1816",
+    "muted": "#5A5048",
+    "line": "rgba(105,52,23,0.28)"
+  }
+}
