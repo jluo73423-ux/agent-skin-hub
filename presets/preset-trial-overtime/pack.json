@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-overtime",
+  "name": "试装 · 加班梗图",
+  "shell": "codex-glass-v2",
+  "galleryReady": true,
+  "concept": {
+    "path": "docs/ads/08-overtime-meme.jpg",
+    "promptPath": "presets/preset-trial-overtime/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-trial-overtime/background.jpg",
+    "promptPath": "presets/preset-trial-overtime/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-trial-overtime/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-trial-overtime",
+  "note": "Public gallery OK (Codex glass v2 preview)."
+}

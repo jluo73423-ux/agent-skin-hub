@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-trial-overtime",
+  "name": "试装 · 加班梗图",
+  "brandSubtitle": " · AGENT SKIN HUB",
+  "tagline": "又是肝到凌晨的一晚，提交前先喝口水。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "AGENT SKIN HUB ONLINE",
+  "quote": "SHIP BEFORE DAWN",
+  "image": "background.jpg",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.7,
+    "focusY": 0.48,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#1A130F",
+    "panel": "rgba(18,22,30,0.55)",
+    "panelAlt": "rgba(255,255,255,0.08)",
+    "accent": "#643E2A",
+    "accentAlt": "#825234",
+    "secondary": "#5A3B2C",
+    "highlight": "#643E2A",
+    "text": "#ECF0F5",
+    "muted": "#8C96A0",
+    "line": "rgba(100,62,42,0.28)"
+  }
+}
