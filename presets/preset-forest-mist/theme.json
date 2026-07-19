@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-forest-mist",
+  "name": "森野薄雾",
+  "brandSubtitle": " · SKIN HUB",
+  "tagline": "在雾气森林里，安静地推进。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "SKIN HUB ONLINE",
+  "quote": "WALK THROUGH THE MIST",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.72,
+    "focusY": 0.42,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#121A14",
+    "panel": "rgba(20,16,20,0.52)",
+    "panelAlt": "rgba(40,28,32,0.42)",
+    "accent": "#7BC47A",
+    "accentAlt": "#7BC47A",
+    "secondary": "#7BC47A",
+    "highlight": "#FFF8F2",
+    "text": "#FFF8F2",
+    "muted": "#C9B8B0",
+    "line": "rgba(255,255,255,0.22)"
+  }
+}
