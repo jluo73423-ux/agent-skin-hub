@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-classic-blue-2007",
+  "name": "经典蓝 2007",
+  "shell": "codex-glass-v2",
+  "galleryReady": true,
+  "concept": {
+    "path": "docs/ads/25-classic-blue-2007.jpg",
+    "promptPath": "presets/preset-classic-blue-2007/concept-prompt.md"
+  },
+  "wallpaper": {
+    "path": "presets/preset-classic-blue-2007/background.jpg",
+    "promptPath": "presets/preset-classic-blue-2007/wallpaper-prompt.md"
+  },
+  "colorsPath": "presets/preset-classic-blue-2007/theme.json",
+  "installCmd": "curl -fsSL https://cdn.jsdelivr.net/gh/Chiody/agent-skin-hub@main/scripts/apply-hub-skin.sh | bash -s -- preset-classic-blue-2007",
+  "note": "Nostalgic XP Luna / early-2000s messenger blue for Codex glass shell. Inspired by era aesthetics; not a copy of third-party trademarks. Related full-chrome skin engine: angziii/codex-qq-skin."
+}
