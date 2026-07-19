@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-amber-dusk",
+  "name": "琥珀黄昏",
+  "brandSubtitle": " · SKIN HUB",
+  "tagline": "把黄昏的暖意，留在这一行代码里。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "SKIN HUB ONLINE",
+  "quote": "HOLD THE GOLDEN HOUR",
+  "image": "background.jpg",
+  "appearance": "auto",
+  "art": {
+    "focusX": 0.72,
+    "focusY": 0.42,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#24160E",
+    "panel": "rgba(20,16,20,0.52)",
+    "panelAlt": "rgba(40,28,32,0.42)",
+    "accent": "#FFB060",
+    "accentAlt": "#FFB060",
+    "secondary": "#FFB060",
+    "highlight": "#FFF8F2",
+    "text": "#FFF8F2",
+    "muted": "#C9B8B0",
+    "line": "rgba(255,255,255,0.22)"
+  }
+}
